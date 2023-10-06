@@ -62,7 +62,7 @@
     height: 35px;
     width: 40px;
     background-color: rgba(0, 0, 0, 0);
-    background-image: url(../images/iconmonstr-plus-circle-lined-1.svg);
+    background-image: url('../images/iconmonstr-plus-circle-lined-1.svg');
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: auto;
